@@ -4,6 +4,7 @@ import com.matusalenalves.workshopmongo.domain.User;
 
 import java.io.Serial;
 import java.io.Serializable;
+import java.util.Optional;
 
 public class UserDTO implements Serializable {
     @Serial
